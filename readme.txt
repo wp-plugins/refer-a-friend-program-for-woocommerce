@@ -1,6 +1,6 @@
 === Refer a Friend Program for WooCommerce ===
 Contributors: StoreYa
-Tags:  refer a friend, referrals, friends, discount, ecommerce, increase sales, lead generator, leads, storeya, woocommerce, wordpress, incentive
+Tags:  refer a friend, referrals, friends, discount, ecommerce, increase sales, lead generator, leads, storeya, woocommerce, wordpress, incentive, woocommerce, woocommerce add-ons, woocommerce addons, woocommerce extensions, WooCommerce Plugins
 Requires at least: 3.0
 Tested up to: 3.9
 Stable tag: 1.0
