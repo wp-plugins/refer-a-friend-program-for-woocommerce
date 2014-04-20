@@ -134,6 +134,7 @@ $customer_name = $first_name." ".$last_name;
 if (get_option('sshID')) {
 ?>
 <!-- Begin StoreYa script -->
+<img src="http://www.storeya.com/widgets/admin?p=Rff_WooCommerce_plugin"/>
 <script type="text/javascript">
 
  //<![CDATA[
