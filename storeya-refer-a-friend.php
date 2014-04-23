@@ -107,6 +107,7 @@ function srff_plugin_actions($links, $file)
                   <p style="font-size:smaller;color:#999239;background-color:#ffffe0;padding:0.4em 0.6em !important;border:1px solid #e6db55;-moz-border-radius:3px;-khtml-border-radius:3px;-webkit-border-radius:3px;border-radius:3px"><?php
             printf(__('Don&rsquo;t have a Refer a Friend Program? No problem! %1$sHave your customers converting their friends to your store!%2$sCreate a <strong>FREE</strong> Refer a Friend Offer Now!%3$s', $srff_domain), '<a href="http://www.storeya.com/public/referafriend" title="', '">', '</a>');
 ?></p>
+<img src="http://www.storeya.com/widgets/admin?p=Rff_WooCommerce_plugin"/>
                   </div>
                 </div>
 
@@ -134,7 +135,6 @@ $customer_name = $first_name." ".$last_name;
 if (get_option('sshID')) {
 ?>
 <!-- Begin StoreYa script -->
-<img src="http://www.storeya.com/widgets/admin?p=Rff_WooCommerce_plugin"/>
 <script type="text/javascript">
 
  //<![CDATA[
