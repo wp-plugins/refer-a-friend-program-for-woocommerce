@@ -86,7 +86,7 @@ function srff_plugin_actions($links, $file)
                 <?php
             settings_fields('storeya-refer-a-friend-group');
 ?>
-                <p><label for="sshID">Enter seccret key (Don&rsquo;t have one? Follow these <a href="#" onclick="showInst(); return false;" id="steps">steps</a>)
+                <p><label for="sshID">Enter secret key (Don&rsquo;t have one? Follow these <a href="#" onclick="showInst(); return false;" id="steps">steps</a>)
 </label></p>
 <div id="instructions" style="display:none">
  <ol>
