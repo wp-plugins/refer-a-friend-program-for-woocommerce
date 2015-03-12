@@ -61,4 +61,3 @@ Good Luck! If you need further assistance please contact us at: Support@storeya.
 [StoreYa support](https://storeya.zendesk.com/home)
 
 [Refer a Friend Program website](http://www.storeya.com/public/referafriend)
-
