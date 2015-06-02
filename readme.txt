@@ -3,7 +3,7 @@ Contributors: StoreYa
 Tags:  refer a friend, referrals, friends, discount, ecommerce, increase sales, lead generator, leads, storeya, woocommerce, wordpress, incentive, woocommerce, woocommerce add-ons, woocommerce addons, woocommerce extensions, WooCommerce Plugins
 Requires at least: 3.0
 Tested up to: 4.2
-Stable tag: 1.8
+Stable tag: 1.9
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -11,7 +11,7 @@ Create a customer referral program Now! Have your customers driving their friend
 
 == Description ==
 
-Join StoreYa's +70,000 Happy merchants that use our marketing and sales tools on a daily basis!
+Join StoreYa's +100,000 Happy merchants that use our marketing and sales tools on a daily basis!
 
 **Easily install your own Refer a Friend program**
 
